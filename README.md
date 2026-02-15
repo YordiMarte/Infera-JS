@@ -43,6 +43,3 @@ real-world distributed systems, cloud-native architecture, and DevOps practices.
 
 ## Project Status
 🚧 Initial setup — monorepo and infrastructure foundations.
-
-
-
